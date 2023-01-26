@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\bin\Debug\net6.0\exampless001_Helloworld.exe
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\bin\Debug\net6.0\exampless001_Helloworld.deps.json
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\bin\Debug\net6.0\exampless001_Helloworld.runtimeconfig.json
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\bin\Debug\net6.0\exampless001_Helloworld.dll
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\bin\Debug\net6.0\exampless001_Helloworld.pdb
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\exampless001_Helloworld.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\exampless001_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\exampless001_Helloworld.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\exampless001_Helloworld.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\exampless001_Helloworld.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\exampless001_Helloworld.dll
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\refint\exampless001_Helloworld.dll
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\exampless001_Helloworld.pdb
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\exampless001_Helloworld.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless001_Helloworld\obj\Debug\net6.0\ref\exampless001_Helloworld.dll
