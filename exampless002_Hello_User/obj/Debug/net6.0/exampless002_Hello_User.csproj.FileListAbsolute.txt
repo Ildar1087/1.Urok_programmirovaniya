@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\bin\Debug\net6.0\exampless002_Hello_User.exe
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\bin\Debug\net6.0\exampless002_Hello_User.deps.json
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\bin\Debug\net6.0\exampless002_Hello_User.runtimeconfig.json
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\bin\Debug\net6.0\exampless002_Hello_User.dll
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\bin\Debug\net6.0\exampless002_Hello_User.pdb
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\exampless002_Hello_User.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\exampless002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\exampless002_Hello_User.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\exampless002_Hello_User.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\exampless002_Hello_User.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\exampless002_Hello_User.dll
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\refint\exampless002_Hello_User.dll
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\exampless002_Hello_User.pdb
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\exampless002_Hello_User.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программирование\1. урок программирование на С#\exampless002_Hello_User\obj\Debug\net6.0\ref\exampless002_Hello_User.dll
