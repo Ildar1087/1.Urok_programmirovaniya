@@ -1,7 +1,7 @@
 ﻿Console.Clear();
 int a1 = 23;
 int b1 = 32;
-int c1 = 74;
+int c1 = 714;
 int a2 = 33;
 int b2 = 05;
 int c2 = 39;
